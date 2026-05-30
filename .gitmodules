@@ -1,0 +1,6 @@
+[submodule "caveman"]
+	path = caveman
+	url = git@github.com:JuliusBrussee/caveman.git
+[submodule "superpowers"]
+	path = superpowers
+	url = git@github.com:obra/superpowers.git
